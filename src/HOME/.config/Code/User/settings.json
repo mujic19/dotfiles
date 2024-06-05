@@ -6,7 +6,7 @@
     "statusBar.debuggingBackground": "#ffae00",
     "editorRuler.foreground": "#2a2a2a"
   },
-  "workbench.colorTheme": "Default Dark Modern",
+  "workbench.colorTheme": "Catppuccin Mocha",
   "workbench.iconTheme": "vscode-icons",
   "editor.suggestSelection": "first",
   "editor.rulers": [80, 100, 120],
@@ -29,5 +29,6 @@
   "terminal.integrated.defaultProfile.linux": "fish",
   "terminal.integrated.shellIntegration.decorationsEnabled": "never",
   "terminal.integrated.inheritEnv": false,
-  "window.zoomLevel": 1
+  "window.zoomLevel": 1,
+  "editor.minimap.enabled": false
 }

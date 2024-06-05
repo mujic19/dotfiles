@@ -34,3 +34,5 @@ if status --is-login
         __graphical_environment_bspwm
     end
 end
+
+fish_add_path /home/ana/.spicetify
